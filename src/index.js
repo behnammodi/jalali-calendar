@@ -9,7 +9,7 @@ import smoothscroll from 'smoothscroll-polyfill';
 import { Dancer, useDancer } from 'react-dancing';
 import reportWebVitals from './reportWebVitals';
 import events from './events';
-import moving from './moving';
+import moving from './utils/moving';
 import './index.css';
 import initialColorSchema from './color-scheme';
 import {
