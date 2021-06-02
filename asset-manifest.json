@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e8e5790.chunk.css",
-    "main.js": "/static/js/main.139bb594.chunk.js",
-    "main.js.map": "/static/js/main.139bb594.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d169f7ff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d169f7ff.js.map",
-    "static/js/2.c58fd0d0.chunk.js": "/static/js/2.c58fd0d0.chunk.js",
-    "static/js/2.c58fd0d0.chunk.js.map": "/static/js/2.c58fd0d0.chunk.js.map",
-    "static/js/3.6ac5551f.chunk.js": "/static/js/3.6ac5551f.chunk.js",
-    "static/js/3.6ac5551f.chunk.js.map": "/static/js/3.6ac5551f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1e8e5790.chunk.css.map": "/static/css/main.1e8e5790.chunk.css.map",
-    "static/js/2.c58fd0d0.chunk.js.LICENSE.txt": "/static/js/2.c58fd0d0.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/IRANYekanRegular(FaNum).df705b24.eot"
+    "main.css": "/jalali-calendar/static/css/main.d3d9a86d.chunk.css",
+    "main.js": "/jalali-calendar/static/js/main.8cd0d396.chunk.js",
+    "main.js.map": "/jalali-calendar/static/js/main.8cd0d396.chunk.js.map",
+    "runtime-main.js": "/jalali-calendar/static/js/runtime-main.e475ef09.js",
+    "runtime-main.js.map": "/jalali-calendar/static/js/runtime-main.e475ef09.js.map",
+    "static/js/2.c58fd0d0.chunk.js": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js",
+    "static/js/2.c58fd0d0.chunk.js.map": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js.map",
+    "static/js/3.6ac5551f.chunk.js": "/jalali-calendar/static/js/3.6ac5551f.chunk.js",
+    "static/js/3.6ac5551f.chunk.js.map": "/jalali-calendar/static/js/3.6ac5551f.chunk.js.map",
+    "index.html": "/jalali-calendar/index.html",
+    "static/css/main.d3d9a86d.chunk.css.map": "/jalali-calendar/static/css/main.d3d9a86d.chunk.css.map",
+    "static/js/2.c58fd0d0.chunk.js.LICENSE.txt": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jalali-calendar/static/media/IRANYekanRegular(FaNum).df705b24.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.d169f7ff.js",
+    "static/js/runtime-main.e475ef09.js",
     "static/js/2.c58fd0d0.chunk.js",
-    "static/css/main.1e8e5790.chunk.css",
-    "static/js/main.139bb594.chunk.js"
+    "static/css/main.d3d9a86d.chunk.css",
+    "static/js/main.8cd0d396.chunk.js"
   ]
 }
