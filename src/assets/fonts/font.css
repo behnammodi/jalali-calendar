@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'IRANYekanFaNum';
+  src: url('IRANYekanFaNum.svg#IRANYekanFaNum') format('svg'), url('IRANYekanFaNum.ttf') format('truetype'), url('IRANYekanFaNum.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  src: url('IRANYekanRegular(FaNum).eot');
+  src: url('IRANYekanRegular(FaNum).eot?#iefix') format('embedded-opentype'), url('IRANYekanRegular(FaNum).woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
