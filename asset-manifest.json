@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jalali-calendar/static/css/main.d3d9a86d.chunk.css",
-    "main.js": "/jalali-calendar/static/js/main.8cd0d396.chunk.js",
-    "main.js.map": "/jalali-calendar/static/js/main.8cd0d396.chunk.js.map",
-    "runtime-main.js": "/jalali-calendar/static/js/runtime-main.e475ef09.js",
-    "runtime-main.js.map": "/jalali-calendar/static/js/runtime-main.e475ef09.js.map",
-    "static/js/2.c58fd0d0.chunk.js": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js",
-    "static/js/2.c58fd0d0.chunk.js.map": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js.map",
-    "static/js/3.6ac5551f.chunk.js": "/jalali-calendar/static/js/3.6ac5551f.chunk.js",
-    "static/js/3.6ac5551f.chunk.js.map": "/jalali-calendar/static/js/3.6ac5551f.chunk.js.map",
+    "main.js": "/jalali-calendar/static/js/main.8bf48f87.chunk.js",
+    "main.js.map": "/jalali-calendar/static/js/main.8bf48f87.chunk.js.map",
+    "runtime-main.js": "/jalali-calendar/static/js/runtime-main.4a5bfde0.js",
+    "runtime-main.js.map": "/jalali-calendar/static/js/runtime-main.4a5bfde0.js.map",
+    "static/js/2.32a3bb9d.chunk.js": "/jalali-calendar/static/js/2.32a3bb9d.chunk.js",
+    "static/js/2.32a3bb9d.chunk.js.map": "/jalali-calendar/static/js/2.32a3bb9d.chunk.js.map",
+    "static/js/3.dac9474d.chunk.js": "/jalali-calendar/static/js/3.dac9474d.chunk.js",
+    "static/js/3.dac9474d.chunk.js.map": "/jalali-calendar/static/js/3.dac9474d.chunk.js.map",
     "index.html": "/jalali-calendar/index.html",
     "static/css/main.d3d9a86d.chunk.css.map": "/jalali-calendar/static/css/main.d3d9a86d.chunk.css.map",
-    "static/js/2.c58fd0d0.chunk.js.LICENSE.txt": "/jalali-calendar/static/js/2.c58fd0d0.chunk.js.LICENSE.txt",
+    "static/js/2.32a3bb9d.chunk.js.LICENSE.txt": "/jalali-calendar/static/js/2.32a3bb9d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/jalali-calendar/static/media/IRANYekanRegular(FaNum).df705b24.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.e475ef09.js",
-    "static/js/2.c58fd0d0.chunk.js",
+    "static/js/runtime-main.4a5bfde0.js",
+    "static/js/2.32a3bb9d.chunk.js",
     "static/css/main.d3d9a86d.chunk.css",
-    "static/js/main.8cd0d396.chunk.js"
+    "static/js/main.8bf48f87.chunk.js"
   ]
 }
